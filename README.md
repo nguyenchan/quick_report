@@ -11,6 +11,8 @@ name_input.value = "your_name_go_here";
 
 Done
 
+If u want to "submit in one click" u can add a function submit this form on page load
+
 ### Demo form below submit to a test sheets
 
 Demo form: [quick report](https://nguyenchan.github.io/Fetch_Exerciese/quick_report_demo/)
