@@ -10,3 +10,6 @@ name_input.value = "your_name_go_here";
 ```
 
 Done
+
+Demo: [quick report](https://nguyenchan.github.io/Fetch_Exerciese/quick_report_demo/)
+check demo: [google sheets](https://docs.google.com/spreadsheets/d/1qR59cIlKRWVR4Y4GYq3bN93vOAtl_KeVAMsBrcoC20M/edit?usp=sharing)
