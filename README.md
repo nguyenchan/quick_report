@@ -17,3 +17,5 @@ If u want to "submit in one click" u can add a function submit this form on page
 
 Demo form: [quick report](https://nguyenchan.github.io/Fetch_Exerciese/quick_report_demo/)
 Demo sheets: [google sheets](https://docs.google.com/spreadsheets/d/1qR59cIlKRWVR4Y4GYq3bN93vOAtl_KeVAMsBrcoC20M/edit?usp=sharing)
+
+_js seem not work right on safari_
