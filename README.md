@@ -13,6 +13,8 @@ Done
 
 If u want to "submit in one click" u can add a function submit this form on page load
 
+_js seem not work right on safari_
+
 ### Demo form below submit to a test sheets
 
 Demo form: [quick report](https://nguyenchan.github.io/Fetch_Exerciese/quick_report_demo/)
